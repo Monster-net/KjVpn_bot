@@ -127,4 +127,3 @@ if __name__ == "__main__":
     test_xui_connection()
 
     bot.infinity_polling()
-```
